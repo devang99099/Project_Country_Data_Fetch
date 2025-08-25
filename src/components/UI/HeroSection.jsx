@@ -19,7 +19,11 @@ const HeroSection = () => {
             </button>
           </div>
           <div>
-            <img src="/images/world.png" alt="" className="w-[1050px]" />
+            <img
+              src="https://teamconnectind.com/wp-content/uploads/2024/02/all-in-one_006-2048x1070.webp"
+              alt=""
+              className="w-[1050px]"
+            />
           </div>
         </div>
       </div>
