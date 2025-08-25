@@ -19,11 +19,7 @@ const HeroSection = () => {
             </button>
           </div>
           <div>
-            <img
-              src="./public/images/world.png"
-              alt=""
-              className="w-[1050px]"
-            />
+            <img src="/images/world.png" alt="" className="w-[1050px]" />
           </div>
         </div>
       </div>
