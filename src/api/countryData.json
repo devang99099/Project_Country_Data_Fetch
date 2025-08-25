@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "country_name": "India",
+    "capital": "New Delhi",
+    "population": 1400000000,
+    "interesting_fact": "India is the birthplace of chess and yoga."
+  },
+  {
+    "id": 2,
+    "country_name": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interesting_fact": "Nepal is home to Mount Everest, the tallest mountain in the world."
+  },
+  {
+    "id": 3,
+    "country_name": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interesting_fact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 4,
+    "country_name": "Australia",
+    "capital": "Canberra",
+    "population": 25867041,
+    "interesting_fact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "country_name": "Brazil",
+    "capital": "Brasília",
+    "population": 219934337,
+    "interesting_fact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "country_name": "France",
+    "capital": "Paris",
+    "population": 67074241,
+    "interesting_fact": "The Eiffel Tower was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "country_name": "Russia",
+    "capital": "Moscow",
+    "population": 132421607,
+    "interesting_fact": "Russia is the largest country in the world by area, covering 11 time zones."
+  },
+  {
+    "id": 8,
+    "country_name": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interesting_fact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 9,
+    "country_name": "Italy",
+    "capital": "Rome",
+    "population": 58853482,
+    "interesting_fact": "Italy is home to the most UNESCO World Heritage Sites in the world."
+  },
+  {
+    "id": 10,
+    "country_name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45376763,
+    "interesting_fact": "Argentina is the birthplace of tango, one of the most influential dances in the world."
+  },
+  {
+    "id": 11,
+    "country_name": "Germany",
+    "capital": "Berlin",
+    "population": 83240525,
+    "interesting_fact": "Germany is known for its engineering and is the birthplace of the automobile."
+  },
+  {
+    "id": 12,
+    "country_name": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interesting_fact": "Tokyo is the most populous metropolitan area in the world."
+  }
+]
